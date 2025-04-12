@@ -12,5 +12,5 @@ https://ee-marcelofailla.projects.earthengine.app/view/temperatura-media-anual-d
 
 
 *Temperatura Noturna Media Anual MSP AAUBS 2001 a 2024*
-![thumbnail_temp_noturna](https://github.com/user-attachments/assets/55681981-c34c-4e8e-bf2f-0a838408eea8)
+[![image](https://raw.githubusercontent.com/OutputGEO/gee-temperatura/refs/heads/main/images/thumbnail_temp_noturna.png)
 https://ee-marcelofailla.projects.earthengine.app/view/temperatura-noturna-media-anual-msp-aaubs-2001-a-2024
