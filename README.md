@@ -1,8 +1,8 @@
 # gee-temperatura
 
-Mapas dinâmicos com dados analisados e indicadores sobre a estrutura computacional e a base de dados do google maps para localização de elementos geográficos e endereços.
+Mapas dinâmicos para apresentação de indicadores e dados organizados e analisados, sobre a estrutura computacional e a base de dados do google maps para localização de elementos geográficos e endereços.
 
-Nos hyperlinks abaixo, trazemos duas aplicações geradas no Google Earth Engine (GEE) de mapa web para apresentação de dados climáticos de temperatura da superfície (diurna e noturna) desagregados em pixels de 30 e 250m, em recortes mensais e anuais na série histórica de 2001-2024(MODIS-250m) e 2013-2024(LANDSAT 8/9-30m).
+Nos hyperlinks abaixo, trazemos como exemplo duas aplicações geradas no Google Earth Engine (GEE) de mapa web para apresentação de dados climáticos de temperatura da superfície (diurna e noturna) desagregados em pixels de 30 e 250m, em recortes mensais e anuais na série histórica de 2001-2024(MODIS-250m) e 2013-2024(LANDSAT 8/9-30m).
 
 
 *Temperatura Media Anual da Superficie AAUBS MSP 2001 a 2024*
