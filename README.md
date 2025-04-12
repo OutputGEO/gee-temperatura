@@ -6,7 +6,7 @@ Nos hyperlinks abaixo, trazemos como exemplo duas aplicações geradas no Google
 
 
 *Temperatura Media Anual da Superficie AAUBS MSP 2001 a 2024*
-![image](https://github.com/user-attachments/assets/b883dce8-af57-439d-9222-4198119aeb16)
+[![image](https://raw.githubusercontent.com/OutputGEO/gee-temperatura/refs/heads/main/images/Thumbnail_GEE_APP_Temp_LANDSAT.png)
 https://ee-marcelofailla.projects.earthengine.app/view/temperatura-media-anual-da-superficie-aaubs-msp-2001-a-2024
 
 
