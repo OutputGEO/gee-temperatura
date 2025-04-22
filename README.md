@@ -6,11 +6,11 @@ Nos hyperlinks abaixo, trazemos como exemplo duas aplicações geradas no Google
 
 
 *Temperatura Media Anual da Superficie AAUBS MSP 2013 a 2024*
-[![image](https://raw.githubusercontent.com/OutputGEO/gee-temperatura/refs/heads/main/images/Thumbnail_GEE_APP_Temp_LANDSAT.png)
+![thumbnail_painel_temp_](https://github.com/user-attachments/assets/45fa56b7-4e33-4309-88f7-63f16a0d6a23)
 https://ee-marcelofailla.projects.earthengine.app/view/temperatura-media-anual-da-superficie-aaubs-msp-2013-a-2024
 
 
 
 *Temperatura Noturna Media Anual MSP AAUBS 2001 a 2024*
-[![image](https://raw.githubusercontent.com/OutputGEO/gee-temperatura/refs/heads/main/images/thumbnail_temp_noturna.png)
+![thumbnail_temp_noturna](https://github.com/user-attachments/assets/d4841172-d4a3-42cb-a6cc-267bdabbe1f0)
 https://ee-marcelofailla.projects.earthengine.app/view/temperatura-noturna-media-anual-msp-aaubs-2001-a-2024
