@@ -5,9 +5,9 @@ Mapas dinâmicos para apresentação de indicadores e dados organizados e analis
 Nos hyperlinks abaixo, trazemos como exemplo duas aplicações geradas no Google Earth Engine (GEE) de mapa web para apresentação de dados climáticos de temperatura da superfície (diurna e noturna) desagregados em pixels de 30 e 250m, em recortes mensais e anuais na série histórica de 2001-2024(MODIS-250m) e 2013-2024(LANDSAT 8/9-30m).
 
 
-*Temperatura Media Anual da Superficie AAUBS MSP 2001 a 2024*
+*Temperatura Media Anual da Superficie AAUBS MSP 2013 a 2024*
 [![image](https://raw.githubusercontent.com/OutputGEO/gee-temperatura/refs/heads/main/images/Thumbnail_GEE_APP_Temp_LANDSAT.png)
-https://ee-marcelofailla.projects.earthengine.app/view/temperatura-media-anual-da-superficie-aaubs-msp-2001-a-2024
+https://ee-marcelofailla.projects.earthengine.app/view/temperatura-media-anual-da-superficie-aaubs-msp-2013-a-2024
 
 
 
