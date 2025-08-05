@@ -2,7 +2,11 @@
 
 Mapas dinâmicos para apresentação de indicadores e dados organizados e analisados, sobre a estrutura computacional e a base de dados do google maps para localização de elementos geográficos e endereços.
 
-Nos hyperlinks abaixo, trazemos como exemplo duas aplicações geradas no Google Earth Engine (GEE) de mapa web para apresentação de dados climáticos de temperatura da superfície (diurna e noturna) desagregados em pixels de 30 e 250m, em recortes mensais e anuais na série histórica de 2001-2024(MODIS-250m) e 2013-2024(LANDSAT 8/9-30m).
+A estrutura das aplicações é escrita com o uso de plataformas para construção de modelos que extraem grandes volumes de dados pré-processados de satélites orbitais com sensores capazes de captar a temperatura da superfície terrestre e da água através da medição da radiação infravermelha emitida por esses objetos.
+
+As customizações são esperadas a partir da definição de parâmetros de controle e avaliação e do território de interesse.
+
+Nos hyperlinks abaixo, trazemos como exemplo duas aplicações geradas no Google Earth Engine (GEE) de mapa web para apresentação de dados climáticos de temperatura da superfície (diurna e noturna) desagregados em pixels de 30 e 250m, em recortes mensais e anuais na série histórica de 2001-2024(MODIS-250m) e 2013-2024(LANDSAT 8/9-30m) para a cidade de São Paulo, com o recorte geográfico das áreas de abrangência de UBS, territórios de responsabilidade da Atenção Primária à Saúde, a porta de entrada organizadora da assistência prevista no SUS.
 
 
 *Temperatura Media Anual da Superficie AAUBS MSP 2013 a 2024*
