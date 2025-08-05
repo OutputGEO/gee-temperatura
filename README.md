@@ -23,3 +23,5 @@ https://ee-marcelofailla.projects.earthengine.app/view/temperatura-noturna-media
 Saiba mais em nosso site: https://www.outputgeo.com/produtos-e-servicos/clima-e-temperatura
 
 Entre em contato para mais informações: contato@outputgeo.com
+
+<img width="107"  alt="novo_logo2_sem_fundo_OutputGEO" src="https://github.com/user-attachments/assets/58726954-ceb4-4ecd-aaf2-247f6b097cdf" />
