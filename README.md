@@ -18,3 +18,8 @@ https://ee-marcelofailla.projects.earthengine.app/view/temperatura-media-anual-d
 *Temperatura Noturna Media Anual MSP AAUBS 2001 a 2024*
 ![thumbnail_temp_noturna](https://github.com/user-attachments/assets/d4841172-d4a3-42cb-a6cc-267bdabbe1f0)
 https://ee-marcelofailla.projects.earthengine.app/view/temperatura-noturna-media-anual-msp-aaubs-2001-a-2024
+
+
+Saiba mais em nosso site: https://www.outputgeo.com/produtos-e-servicos/clima-e-temperatura
+
+Entre em contato para mais informações: contato@outputgeo.com
