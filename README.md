@@ -19,5 +19,11 @@ https://ee-marcelofailla.projects.earthengine.app/view/temperatura-media-anual-d
 ![thumbnail_temp_noturna](https://github.com/user-attachments/assets/d4841172-d4a3-42cb-a6cc-267bdabbe1f0)
 https://ee-marcelofailla.projects.earthengine.app/view/temperatura-noturna-media-anual-msp-aaubs-2001-a-2024
 
-![Thumbnail_ZENODO](https://zenodo.org/badge/DOI/10.5281/zenodo.17057787.svg)
 
+[![Thumbnail_ZENODO](https://zenodo.org/badge/DOI/10.5281/zenodo.17057787.svg)](https://doi.org/10.5281/zenodo.17057787)
+
+
+![Thumbnail_ZENODO](https://zenodo.org/badge/DOI/10.5281/zenodo.17057787.svg)
+https://doi.org/10.5281/zenodo.17057787
+
+<img width="195" height="27" alt="{56076961-44F5-4915-8687-F576123D83E5}" src="https://github.com/user-attachments/assets/72f642bd-6b75-4b08-b4d8-bd4d77feb37b" />
