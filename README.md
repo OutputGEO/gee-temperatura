@@ -20,6 +20,7 @@ https://ee-marcelofailla.projects.earthengine.app/view/temperatura-media-anual-d
 https://ee-marcelofailla.projects.earthengine.app/view/temperatura-noturna-media-anual-msp-aaubs-2001-a-2024
 
 
+
 Registro - Digital Object Identifier (DOI)*\
 [![Thumbnail_ZENODO](https://zenodo.org/badge/DOI/10.5281/zenodo.17057787.svg)](https://doi.org/10.5281/zenodo.17057787)
 
@@ -30,4 +31,9 @@ Indexed in\
 
 
 
+Saiba mais em nosso site: https://www.outputgeo.com/produtos-e-servicos/clima-e-temperatura
+
+Entre em contato para mais informações: contato@outputgeo.com
+
+<img width="107"  alt="novo_logo2_sem_fundo_OutputGEO" src="https://github.com/user-attachments/assets/58726954-ceb4-4ecd-aaf2-247f6b097cdf" />
 
