@@ -20,4 +20,14 @@ https://ee-marcelofailla.projects.earthengine.app/view/temperatura-media-anual-d
 https://ee-marcelofailla.projects.earthengine.app/view/temperatura-noturna-media-anual-msp-aaubs-2001-a-2024
 
 
+Registro - Digital Object Identifier (DOI)*
 [![Thumbnail_ZENODO](https://zenodo.org/badge/DOI/10.5281/zenodo.17057787.svg)](https://doi.org/10.5281/zenodo.17057787)
+
+*The DOI Foundation is a not-for-profit organization. We govern the Digital Object Identifier (DOI) system on behalf of the agencies who manage DOI registries and provide services to their respective communities. We are the registration authority for the ISO standard (ISO 26324) for the DOI system and we are governed by our Registration Agencies.
+
+
+
+[<img width="126" height="68" alt="{28B997FA-5061-4196-A93E-28ABE7331A1C}" src="https://github.com/user-attachments/assets/06fa0b6e-1a53-4f01-bf55-28e54ead499f" />](https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.17057787)
+
+
+
