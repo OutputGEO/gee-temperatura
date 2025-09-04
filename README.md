@@ -21,9 +21,3 @@ https://ee-marcelofailla.projects.earthengine.app/view/temperatura-noturna-media
 
 
 [![Thumbnail_ZENODO](https://zenodo.org/badge/DOI/10.5281/zenodo.17057787.svg)](https://doi.org/10.5281/zenodo.17057787)
-
-
-![Thumbnail_ZENODO](https://zenodo.org/badge/DOI/10.5281/zenodo.17057787.svg)
-https://doi.org/10.5281/zenodo.17057787
-
-<img width="195" height="27" alt="{56076961-44F5-4915-8687-F576123D83E5}" src="https://github.com/user-attachments/assets/72f642bd-6b75-4b08-b4d8-bd4d77feb37b" />
