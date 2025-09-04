@@ -26,7 +26,7 @@ Registro - Digital Object Identifier (DOI)*\
 *The DOI Foundation is a not-for-profit organization. We govern the Digital Object Identifier (DOI) system on behalf of the agencies who manage DOI registries and provide services to their respective communities. We are the registration authority for the ISO standard (ISO 26324) for the DOI system and we are governed by our Registration Agencies.
 
 Indexed in\
-[<img width="20%" alt="images-1" src="https://explore.openaire.eu/assets/common-assets/logo-services/explore/main.svg" />](https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.17057787)
+[<img width="40%" alt="larefopenaire" src="https://github.com/user-attachments/assets/03f136bb-2114-4f62-ab36-f9025b7e7d65" />](https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.17057787)
 
 
 
