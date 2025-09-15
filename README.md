@@ -9,13 +9,13 @@ As customizações são esperadas a partir da definição de parâmetros de cont
 Nos hyperlinks abaixo, trazemos como exemplo duas aplicações geradas no Google Earth Engine (GEE) de mapa web para apresentação de dados climáticos de temperatura da superfície (diurna e noturna) desagregados em pixels de 30 e 250m, em recortes mensais e anuais na série histórica de 2001-2024(MODIS-250m) e 2013-2024(LANDSAT 8/9-30m) para a cidade de São Paulo, com o recorte geográfico das áreas de abrangência de UBS, territórios de responsabilidade da Atenção Primária à Saúde, a porta de entrada organizadora da assistência prevista no SUS.
 
 
-*Temperatura Media Anual da Superficie AAUBS MSP 2013 a 2024*
+**Temperatura Media Anual da Superficie AAUBS MSP 2013 a 2024**
 ![Thumbnail_GEE_APP_Temp_LANDSAT](https://github.com/user-attachments/assets/92d135fa-6465-4d7f-b6b9-efbe6b2b519c)
 https://ee-marcelofailla.projects.earthengine.app/view/temperatura-media-anual-da-superficie-aaubs-msp-2013-a-2024
 
 
 
-*Temperatura Noturna Media Anual MSP AAUBS 2001 a 2024*
+**Temperatura Noturna Media Anual MSP AAUBS 2001 a 2024**
 ![thumbnail_temp_noturna](https://github.com/user-attachments/assets/d4841172-d4a3-42cb-a6cc-267bdabbe1f0)
 https://ee-marcelofailla.projects.earthengine.app/view/temperatura-noturna-media-anual-msp-aaubs-2001-a-2024
 
@@ -24,7 +24,7 @@ https://ee-marcelofailla.projects.earthengine.app/view/temperatura-noturna-media
 Registro - Digital Object Identifier (DOI)*\
 [![Thumbnail_ZENODO](https://zenodo.org/badge/DOI/10.5281/zenodo.17057787.svg)](https://doi.org/10.5281/zenodo.17057787)
 
-*The DOI Foundation is a not-for-profit organization. We govern the Digital Object Identifier (DOI) system on behalf of the agencies who manage DOI registries and provide services to their respective communities. We are the registration authority for the ISO standard (ISO 26324) for the DOI system and we are governed by our Registration Agencies.
+**The DOI Foundation is a not-for-profit organization. We govern the Digital Object Identifier (DOI) system on behalf of the agencies who manage DOI registries and provide services to their respective communities. We are the registration authority for the ISO standard (ISO 26324) for the DOI system and we are governed by our Registration Agencies.*
 
 Indexed in\
 [<img width="20%" alt="larefopenaire" src="https://github.com/user-attachments/assets/03f136bb-2114-4f62-ab36-f9025b7e7d65" />](https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.17057787)
