@@ -39,7 +39,7 @@ Entre em contato para mais informações: contato@outputgeo.com
 
 <img width="107"  alt="novo_logo2_sem_fundo_OutputGEO" src="https://github.com/user-attachments/assets/58726954-ceb4-4ecd-aaf2-247f6b097cdf" /> <img width="20%" alt="image" src="https://github.com/user-attachments/assets/9fd8b970-1782-404d-9c81-313abe73dbbc" />
 
-Iniciativa cadastrada no Mutirão COP30 da Rede para Desenvolvimento Urbano Sustentável (ReDUS) ([link](https://www.redus.org.br/a/ini_sub?d=7b227375626d697373696f6e4964223a2263386262643730662d653732652d343965302d616336352d306465663563613132373931222c227375626d697373696f6e436f6465223a2264623631616231362d626161652d346364392d383634332d393265623861393431333735227d&lang=pt))
+Iniciativa cadastrada no **Mutirão COP30 da Rede para Desenvolvimento Urbano Sustentável ([ReDUS](https://www.redus.org.br/mutirao-cop30))** ([link para a iniciativa](https://www.redus.org.br/a/ini_sub?d=7b227375626d697373696f6e4964223a2263386262643730662d653732652d343965302d616336352d306465663563613132373931222c227375626d697373696f6e436f6465223a2264623631616231362d626161652d346364392d383634332d393265623861393431333735227d&lang=pt))
 
 <img width="40%" alt="image" src="https://github.com/user-attachments/assets/7068db26-8aef-4cfb-9adc-62820329f248" />
 
