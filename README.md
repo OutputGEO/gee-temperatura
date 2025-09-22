@@ -35,6 +35,6 @@ Saiba mais em nosso site: https://www.outputgeo.com/produtos-e-servicos/clima-e-
 
 Entre em contato para mais informações: contato@outputgeo.com
 
-<img width="107"  alt="novo_logo2_sem_fundo_OutputGEO" src="https://github.com/user-attachments/assets/58726954-ceb4-4ecd-aaf2-247f6b097cdf" /> <img width="10%" alt="image" src="https://github.com/user-attachments/assets/9fd8b970-1782-404d-9c81-313abe73dbbc" />
+<img width="107"  alt="novo_logo2_sem_fundo_OutputGEO" src="https://github.com/user-attachments/assets/58726954-ceb4-4ecd-aaf2-247f6b097cdf" /> <img width="9%" alt="image" src="https://github.com/user-attachments/assets/9fd8b970-1782-404d-9c81-313abe73dbbc" />
 
 
