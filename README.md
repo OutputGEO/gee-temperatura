@@ -41,5 +41,5 @@ Entre em contato para mais informações: contato@outputgeo.com
 
 Iniciativa cadastrada no Mutirão COP30 da Rede para Desenvolvimento Urbano Sustentável (ReDUS) ([link](https://www.redus.org.br/a/ini_sub?d=7b227375626d697373696f6e4964223a2263386262643730662d653732652d343965302d616336352d306465663563613132373931222c227375626d697373696f6e436f6465223a2264623631616231362d626161652d346364392d383634332d393265623861393431333735227d&lang=pt))
 
-<img width="40%"  alt="redus" src="https://www.redus.org.br/redus_logo.png" />
+<img width="40%"  alt="redus" src=https://redus-pub.s3.sa-east-1.amazonaws.com/Initiative/a3cbb0d4-2a7e-43f4-a40d-75c3b82cc056/institutionalSupportBanner/design-sem-nome-1-5386fda393.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAW3MECQVJZJS6LU72%2F20250922%2Fsa-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250922T193424Z&X-Amz-Expires=1800&X-Amz-Signature=a3d975a8649e0445ddb0015dc7f7cc32ff74e87d3d8be5d694861ec2c3b20890&X-Amz-SignedHeaders=host&x-id=GetObject" />
 
