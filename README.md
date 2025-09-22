@@ -27,7 +27,7 @@ Registro - Digital Object Identifier (DOI)*\
 **The DOI Foundation is a not-for-profit organization. We govern the Digital Object Identifier (DOI) system on behalf of the agencies who manage DOI registries and provide services to their respective communities. We are the registration authority for the ISO standard (ISO 26324) for the DOI system and we are governed by our Registration Agencies.*
 
 Indexed in\
-[<img width="20%" alt="larefopenaire" src="https://github.com/user-attachments/assets/03f136bb-2114-4f62-ab36-f9025b7e7d65" />](https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.17057787)
+[<img width="30%" alt="larefopenaire" src="https://github.com/user-attachments/assets/03f136bb-2114-4f62-ab36-f9025b7e7d65" />](https://explore.openaire.eu/search/result?pid=10.5281%2Fzenodo.17057787)
 
 
 
@@ -37,9 +37,9 @@ Entre em contato para mais informações: contato@outputgeo.com
 
 
 
-<img width="107"  alt="novo_logo2_sem_fundo_OutputGEO" src="https://github.com/user-attachments/assets/58726954-ceb4-4ecd-aaf2-247f6b097cdf" /> <img width="9%" alt="image" src="https://github.com/user-attachments/assets/9fd8b970-1782-404d-9c81-313abe73dbbc" />
+<img width="107"  alt="novo_logo2_sem_fundo_OutputGEO" src="https://github.com/user-attachments/assets/58726954-ceb4-4ecd-aaf2-247f6b097cdf" /> <img width="20%" alt="image" src="https://github.com/user-attachments/assets/9fd8b970-1782-404d-9c81-313abe73dbbc" />
 
 Iniciativa cadastrada no Mutirão COP30 da Rede para Desenvolvimento Urbano Sustentável (ReDUS) ([link](https://www.redus.org.br/a/ini_sub?d=7b227375626d697373696f6e4964223a2263386262643730662d653732652d343965302d616336352d306465663563613132373931222c227375626d697373696f6e436f6465223a2264623631616231362d626161652d346364392d383634332d393265623861393431333735227d&lang=pt))
 
-<img width="20%"  alt="redus" src="https://www.redus.org.br/redus_logo.png" />
+<img width="40%"  alt="redus" src="https://www.redus.org.br/redus_logo.png" />
 
